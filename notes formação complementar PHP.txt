@@ -1,0 +1,25 @@
+Objetivo:
+Até o final da semana, ter uma aplicação básica integrada com o Front.
+
+
+
+https://www.alura.com.br/artigos/mysql-instalacao-configuracao
+
+O SQL é como se fosse o c:
+uma linguagem padrão para fazer códigos dentro de um banco de dados.
+Tem particularidades, mas não muda muita coisa.
+
+
+A chave primária estabalece a integridade de uma tabela
+A chave estrangeira vai usar uma informação, e espera-se que ela...
+________________________________
+
+17/10
+Assim como JS:
+O código é interpretado linha a linha
+A tipagem é dinâmica, mas podemos tipar atributos e classes
+Multi-paradigma
+
+A diferença é que no PHP o paradigma da orientação a objetos vingou, graças à necessidade de manipular bancos de dados
+
+A IDE mais usada para o PHP é o PhpStorm, da mesma marca do IntelliJ
